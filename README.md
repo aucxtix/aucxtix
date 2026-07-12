@@ -8,6 +8,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aucxtix&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/aucxtix?style=for-the-badge&color=58A6FF&labelColor=000000&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aucxtix&label=Repos&query=public_repos&color=58A6FF&style=for-the-badge&logo=github" alt="Total Repos"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ea44f?style=for-the-badge" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Gandhinagar%2C%20Gujarat-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 </p>
@@ -18,7 +23,7 @@
 
 ## 👋 About
 
-Computer Engineering student at **LDRP Institute of Technology & Research**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
+Computer Engineering student at **LDRP Institute of Technology & Research (GTU)**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
 
 ```bash
 $ cat about.txt
