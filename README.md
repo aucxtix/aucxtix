@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=root%40aucxtix%3A~%23+whoami;Atharv+Patil+%E2%80%94+Computer+Engineering%2C+GTU;Cybersecurity+%2B+Networking+%2B+Python+Dev;2x+Hackathon+Certified+%7C+ASUS+%2B+AWS+%2B+IBM+Certified" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:58A6FF&height=230&section=header&text=ATHARV%20PATIL&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Networking%20%7C%20Python%20Dev&descAlignY=55&descSize=20&descColor=E6EDF3" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=root%40aucxtix%3A~%23+whoami;Computer+Engineering+%40+GTU+%7C+2028;2x+Hackathon+Finalist+%7C+ASUS+%2B+AWS+%2B+IBM+Certified;Currently+shipping+%3A+Python+%2B+Django+%2B+Security" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aucxtix&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
@@ -9,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7C3AED&height=3&width=1000" width="100%"/>
 </p>
 
 ## 👋 About
