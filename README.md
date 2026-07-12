@@ -1,36 +1,65 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Atharv+%F0%9F%91%8B;Cybersecurity+%26+Network+Enthusiast+%F0%9F%94%90;Building+secure%2C+scalable+systems+%E2%9A%A1;Need+is+the+seed+of+innovation+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=root%40aucxtix%3A~%23+whoami;Atharv+Patil+%E2%80%94+Computer+Engineering%2C+GTU;Cybersecurity+%2B+Networking+%2B+Python+Dev;2x+Hackathon+Certified+%7C+ASUS+%2B+AWS+%2B+IBM+Certified" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aucxtix&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aucxtix?style=for-the-badge&color=58A6FF&labelColor=000000" alt="Followers"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&color=2ea44f" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ea44f?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Gandhinagar%2C%20Gujarat-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </p>
 
-<table align="center">
+## 👋 About
+
+Computer Engineering student at **LDRP Institute of Technology & Research (GTU)**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
+
+```bash
+$ cat about.txt
+> Currently:  contributing to open source via GirlScript Summer of Code & Nexus Spring of Code
+> Focus:      Python/Django backend, network infrastructure, offensive security basics
+> Languages:  English, Hindi, Gujarati, Marathi
+> Status:     open to internships & entry-level roles
+```
+
+<br>
+
+## 💼 Experience
+
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="15%"><b>May – Jul 2026</b></td>
+<td width="85%">
 
-## 👋 About Me
-
-I'm **Atharv Patil**, a Cybersecurity & Networking enthusiast who loves breaking things apart to understand how to defend them. Currently exploring the intersection of **secure systems, automation, and full-stack development**.
-
-- 🔭 Currently building projects around **network security & anonymity tooling**
-- 🌱 Deepening my skills in **penetration testing, system design & DevOps**
-- 🏆 **Hackathon Finalist** — KSVxGUJCOST
-- 🤝 Actively contributing to **Open Source**
-- 💬 Ask me about **Cybersecurity, Networking, Python, or React**
-- ⚡ Fun fact: I debug faster with coffee ☕ than without
+**Python Development Intern** — Webvanta Innovations *(Remote)*
+Built scripting/automation workflows, backend components, and REST API integrations using **Python, Django & Flask**. Recommended by the Founder for strong problem-solving and clean, readable code.
 
 </td>
-<td width="40%" valign="top">
+</tr>
+<tr>
+<td><b>May – Jun 2026</b></td>
+<td>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=350&lines=whoami%3A+aucxtix;role%3A+security_%2B_dev;status%3A+shipping...;coffee_level%3A+critical" alt="terminal typing" />
+**IT Technical Support Intern** — Sai Computer, Gandhinagar *(On-site)* — **ASUS Certified**
+Hands-on with hardware deployment, LAN configuration & troubleshooting, system diagnostics, OS deployment, storage integration, and CCTV infrastructure across multi-system rollouts.
+
+</td>
+</tr>
+<tr>
+<td><b>Apr 2026 – Present</b></td>
+<td>
+
+**Member** — GDG Cloud Gandhinagar *(Google Developer Groups)*
+
+</td>
+</tr>
+<tr>
+<td><b>May – Jul 2026</b></td>
+<td>
+
+**Open Source Contributor** — GirlScript Summer of Code 2026 & Nexus Spring of Code *(Remote)*
 
 </td>
 </tr>
@@ -38,29 +67,52 @@ I'm **Atharv Patil**, a Cybersecurity & Networking enthusiast who loves breaking
 
 <br>
 
-## 🚀 Tech Stack & Tools
+## 🏆 Hackathons & Leadership
+
+| Event | Result |
+|---|---|
+| 🚀 **ImpactThon @ KSV** — *Collab with GUJCOST* (2025-26) | **Finalist** |
+| 🛰️ **Bhartiya Antariksh Hackathon 2025** — *ISRO certified* | Participant, Ideas Development & Teamwork |
+| 🎪 **XENESIS 2026** *(LDRP-ITR flagship fest)* | **Event Coordinator** — Team Management & Leadership |
+
+<br>
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Lambda%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Intro%20to%20LLMs-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HP-Cybersecurity%20Awareness-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-A6303E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISRO-Antariksh%20Hackathon-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KSV-Linear%20Algebra%20for%20ML-1679A7?style=for-the-badge" />
+</p>
+
+<br>
+
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <br>
@@ -72,7 +124,7 @@ I'm **Atharv Patil**, a Cybersecurity & Networking enthusiast who loves breaking
 <td width="50%">
 
 ### 🕵️ [Anonymous IP Tracker](https://github.com/aucxtix/anonymous-IP-tracker)
-Tool to trace and analyze IP addresses while preserving anonymity — built for network reconnaissance & OSINT practice.
+IP tracing & analysis tool for network reconnaissance and OSINT practice.
 
 `Python` `Networking` `Security`
 
@@ -80,7 +132,7 @@ Tool to trace and analyze IP addresses while preserving anonymity — built for 
 <td width="50%">
 
 ### 🎬 [Aniwebi](https://github.com/aucxtix/aniwebi222)
-A full-stack web platform built for smooth content browsing and a clean, responsive user experience.
+Full-stack web platform focused on smooth browsing and a clean, responsive UI.
 
 `React` `TypeScript` `Web Dev`
 
@@ -90,7 +142,7 @@ A full-stack web platform built for smooth content browsing and a clean, respons
 <td width="50%">
 
 ### 🛒 [Odoo — KSV x LDRP](https://github.com/aucxtix/odoo_ksv_ldrp)
-Hackathon project (KSVxGUJCOST Finalist) — an Odoo-based business automation solution built under time pressure with a team.
+Business automation solution built for the ImpactThon @ KSV hackathon (GUJCOST collab) — **Finalist**.
 
 `Odoo` `Python` `Hackathon`
 
@@ -98,7 +150,7 @@ Hackathon project (KSVxGUJCOST Finalist) — an Odoo-based business automation s
 <td width="50%">
 
 ### ✨ [aucxtix](https://github.com/aucxtix/aucxtix)
-This very profile — a constantly evolving showcase of what I'm building and learning.
+This profile — continuously updated as new work ships.
 
 `Markdown` `GitHub Actions`
 
@@ -122,8 +174,6 @@ This very profile — a constantly evolving showcase of what I'm building and le
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aucxtix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
 </p>
-
-<br>
 
 ## 🎮 Contribution Pacman
 
