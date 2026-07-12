@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=root%40aucxtix%3A~%23+whoami;Computer+Engineering+%40+LDRP+%7C+2028;2x+Hackathon+Finalist+%7C+ASUS+%2B+AWS+%2B+IBM+Certified;Currently+shipping+%3A+Python+%2B+Django+%2B+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=root%40aucxtix%3A~%23+whoami;Computer+Engineering+%40+GTU+%7C+2028;2x+Hackathon+Finalist+%7C+ASUS+%2B+AWS+%2B+IBM+Certified;Currently+shipping+%3A+Python+%2B+Django+%2B+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👋 About
 
-Computer Engineering student at **LDRP Institute of Technology & Research**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
+Computer Engineering student at **LDRP Institute of Technology & Research (GTU)**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
 
 ```bash
 $ cat about.txt
