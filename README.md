@@ -23,7 +23,7 @@
 
 ## 👋 About
 
-Computer Engineering student at **LDRP Institute of Technology & Research (GTU)**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
+Computer Engineering student at **LDRP Institute of Technology & Research**, building hands-on experience across **cybersecurity, networking, and backend development** rather than sticking to one lane. I've spent this year shipping real internship work, coordinating a 300+ person tech fest, and placing as a finalist in two national hackathons.
 
 ```bash
 $ cat about.txt
