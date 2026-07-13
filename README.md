@@ -219,7 +219,7 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
 </p>
 
 <p align="center">
