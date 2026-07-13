@@ -219,7 +219,7 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
 <p align="center">
