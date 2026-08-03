@@ -223,5 +223,5 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <i>⭐ Thanks for stopping by — let's build something secure together.</i>
+  <i>⭐ Thanks for stopping by — let's build something secure together.</i> 
 </p>
