@@ -181,7 +181,7 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aucxtix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucxtix&theme=tokyonight" />
 </p>
 
 ## 🎮 Contribution Pacman
