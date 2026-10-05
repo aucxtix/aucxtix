@@ -197,8 +197,9 @@ This profile — continuously updated as new work ships.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aucxtix/aucxtix/main/assets/activity-pulse.svg" alt="Animated activity feed" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aucxtix/aucxtix/activity-output/activity-graph.svg" alt="Contribution Graph" width="100%"/>
 </p>
+
 <br>
 
 ## 🤝 Let's Connect
