@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aucxtix&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/aucxtix?style=for-the-badge&color=58A6FF&labelColor=000000&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aucxtix&label=Repos&query=public_repos&color=58A6FF&style=for-the-badge&logo=github" alt="Total Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faucxtix&label=Repos&query=%24.public_repos&color=58A6FF&style=for-the-badge&logo=github" alt="Total Repos"/>
 </p>
 
 <p align="center">
@@ -89,9 +89,9 @@ Hands-on with hardware deployment, LAN configuration & troubleshooting, system d
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Lambda%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-Intro%20to%20LLMs-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/HP-Cybersecurity%20Awareness-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Lambda%20Foundations-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-Intro%20to%20LLMs-052FAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HP-Cybersecurity%20Awareness-0096D6?style=for-the-badge" />
   <br/>
   <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-A6303E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISRO-Antariksh%20Hackathon-FF6600?style=for-the-badge" />
@@ -110,17 +110,17 @@ Hands-on with hardware deployment, LAN configuration & troubleshooting, system d
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <br/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
@@ -172,8 +172,8 @@ This profile — continuously updated as new work ships.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=aucxtix&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=aucxtix&layout=donut&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aucxtix&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aucxtix&layout=donut&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -181,7 +181,7 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucxtix&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aucxtix&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ## 🎮 Contribution Pacman
@@ -197,11 +197,8 @@ This profile — continuously updated as new work ships.
 ## 📈 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/aucxtix">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aucxtix&custom_title=Contribution%20Activity&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
+  <img src="https://raw.githubusercontent.com/aucxtix/aucxtix/main/assets/activity-pulse.svg" alt="Animated activity feed" width="100%"/>
 </p>
-
 <br>
 
 ## 🤝 Let's Connect
@@ -223,5 +220,5 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <i>⭐ Thanks for stopping by — let's build something secure together.</i> 
+  <i>⭐ Thanks for stopping by — let's build something secure together.</i>
 </p>
