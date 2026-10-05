@@ -103,6 +103,10 @@ Hands-on with hardware deployment, LAN configuration & troubleshooting, system d
 ## 🚀 Tech Stack
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=600&color=22C3E6&center=true&vCenter=true&width=700&height=40&lines=Python+%7C+Django+%7C+Flask;Linux+%7C+Docker+%7C+Git+%7C+AWS;Nmap+%7C+Wireshark+%7C+Kali+Linux;React+%7C+TypeScript+%7C+Java+%7C+C%2B%2B" alt="Skills ticker" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -197,10 +201,8 @@ This profile — continuously updated as new work ships.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aucxtix/aucxtix/activity-output/activity-graph.svg" alt="Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aucxtix/aucxtix/output/activity-graph.svg" alt="Contribution Graph" width="100%"/>
 </p>
-
-<br>
 
 ## 🤝 Let's Connect
 
@@ -217,7 +219,7 @@ This profile — continuously updated as new work ships.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:58A6FF&height=140&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
