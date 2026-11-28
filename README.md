@@ -164,9 +164,9 @@ End-to-end ERP & workflow automation platform built for ImpactThon @ KSV (GUJCOS
 <td width="50%">
 
 ### ✨ [aucxtix](https://github.com/aucxtix/aucxtix)
-This profile — continuously updated as new work ships.
+Automated GitHub profile showcase featuring live stats, contribution Pacman, and activity graphs updated via CI workflows.
 
-`Markdown` `GitHub Actions`
+`Markdown` `GitHub Actions` `CI/CD`
 
 </td>
 </tr>
