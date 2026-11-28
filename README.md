@@ -126,6 +126,7 @@ Hands-on with hardware deployment, LAN configuration & troubleshooting, system d
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 <br>
