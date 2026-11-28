@@ -172,6 +172,8 @@ Automated GitHub profile showcase featuring live stats, contribution Pacman, and
 </tr>
 </table>
 
+> 💡 **Latest Ship:** [Victus VoltGuard](https://github.com/aucxtix/victus-voltguard) — solves missing HP Victus Linux charge thresholds with a Linux 7.0+ DKMS `hp-wmi` driver and one-command Mint/Ubuntu install.
+
 <br>
 
 ## 📊 GitHub Stats
