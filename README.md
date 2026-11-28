@@ -103,7 +103,7 @@ Hands-on with hardware deployment, LAN configuration & troubleshooting, system d
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=600&color=22C3E6&center=true&vCenter=true&width=700&height=40&lines=Python+%7C+Django+%7C+Flask;Linux+%7C+Docker+%7C+Git+%7C+AWS;Nmap+%7C+Wireshark+%7C+Kali+Linux;React+%7C+TypeScript+%7C+Java+%7C+C%2B%2B" alt="Skills ticker" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=600&color=22C3E6&center=true&vCenter=true&width=700&height=40&lines=Python+%7C+Django+%7C+Flask;Linux+%7C+Bash+%7C+Docker+%7C+Git+%7C+AWS;Nmap+%7C+Wireshark+%7C+Kali+Linux;React+%7C+TypeScript+%7C+Java+%7C+C%2B%2B" alt="Skills ticker" />
 </p>
 
 <p align="center">
