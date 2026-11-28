@@ -138,9 +138,9 @@ Hands-on with hardware deployment, LAN configuration & troubleshooting, system d
 <td width="50%">
 
 ### 🕵️ [Anonymous IP Tracker](https://github.com/aucxtix/anonymous-IP-tracker)
-IP tracing & analysis tool for network reconnaissance and OSINT practice.
+Automated IP geolocation, ASN lookup, and network reconnaissance toolkit built for security analysis and OSINT workflows.
 
-`Python` `Networking` `Security`
+`Python` `Networking` `OSINT` `Security`
 
 </td>
 <td width="50%">
