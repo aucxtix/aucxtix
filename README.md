@@ -226,5 +226,5 @@ Automated GitHub profile showcase featuring live stats, contribution Pacman, and
 </p>
 
 <p align="center">
-  <i>⭐ Thanks for stopping by — let's build something secure together.</i>
+  <i>⭐ Thanks for stopping by — building secure systems from kernel space to web apps.</i>
 </p>
