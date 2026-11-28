@@ -145,10 +145,8 @@ IP tracing & analysis tool for network reconnaissance and OSINT practice.
 </td>
 <td width="50%">
 
-### 🎬 [Aniwebi](https://github.com/aucxtix/aniwebi222)
-Full-stack web platform focused on smooth browsing and a clean, responsive UI.
-
-`React` `TypeScript` `Web Dev`
+### ⚡ [Victus VoltGuard](https://github.com/aucxtix/victus-voltguard)
+80% battery charge limiter & direct AC mode for HP Victus on Linux Mint/Ubuntu using a patched DKMS `hp-wmi` driver (`0x2B` WMI).
 
 </td>
 </tr>
