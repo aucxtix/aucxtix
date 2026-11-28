@@ -146,7 +146,9 @@ IP tracing & analysis tool for network reconnaissance and OSINT practice.
 <td width="50%">
 
 ### ⚡ [Victus VoltGuard](https://github.com/aucxtix/victus-voltguard)
-80% battery charge limiter & direct AC mode for HP Victus on Linux Mint/Ubuntu using a patched DKMS `hp-wmi` driver (`0x2B` WMI).
+80% battery charge-limit controller & DKMS `hp-wmi` kernel driver (`0x2B` WMI) with GTK3 ON/OFF toggle, live power telemetry, and one-command setup.
+
+`Python` `Linux Kernel` `C / DKMS` `GTK3`
 
 </td>
 </tr>
