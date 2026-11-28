@@ -28,7 +28,7 @@ Computer Engineering student at **LDRP Institute of Technology & Research**, bui
 ```bash
 $ cat about.txt
 > Currently:  contributing to open source via GirlScript Summer of Code & Nexus Spring of Code
-> Focus:      Python/Django backend, network infrastructure, offensive security basics
+> Focus:      Python/Django backend, Linux kernel/DKMS tooling, network security
 > Languages:  English, Hindi, Gujarati, Marathi
 > Status:     open to internships & entry-level roles
 ```
