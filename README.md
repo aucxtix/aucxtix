@@ -156,9 +156,9 @@ Automated IP geolocation, ASN lookup, and network reconnaissance toolkit built f
 <td width="50%">
 
 ### 🛒 [Odoo — KSV x LDRP](https://github.com/aucxtix/odoo_ksv_ldrp)
-Business automation solution built for the ImpactThon @ KSV hackathon (GUJCOST collab) — **Finalist**.
+End-to-end ERP & workflow automation platform built for ImpactThon @ KSV (GUJCOST collab) — **National Finalist**.
 
-`Odoo` `Python` `Hackathon`
+`Odoo` `Python` `PostgreSQL` `Hackathon`
 
 </td>
 <td width="50%">
